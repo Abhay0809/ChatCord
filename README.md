@@ -12,7 +12,7 @@ What things you need to install the software and how to install them
 
 ```
 NodeJS 
-Internet (for SASS and other Designing Stuffs)
+Internet (for SASS compilation and loading CDNs)
 ```
 ## Installation
 
