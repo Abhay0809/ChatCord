@@ -42,7 +42,7 @@ localhost:2020/login
 
 ## Resources
 
-### Languages
+### Architecture
 
 - HTML5
 - CSS3 (SASS)
