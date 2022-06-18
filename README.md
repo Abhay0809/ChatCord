@@ -18,7 +18,7 @@ Internet (for SASS compilation and loading CDNs)
 
 ### Clone
 
-- Clone this repo to your local machine using `https://github.com/Abhay2611/ChatCord`
+- Clone this repo to your local machine using `https://github.com/Abhay0809/ChatCord`
 
 ### Setup
 
