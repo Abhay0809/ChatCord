@@ -1,6 +1,6 @@
 # ChatCord
 
- A simple but interactive Chatting Application on Web platform! This Project has been build by me Abhay Anand. Hopefully I think you all will like this project. Project presented to Code Vision BCET. Won First Prize xD
+ A simple but interactive Chatting Application on Web platform! This Project has been build by me Abhay Anand. Hopefully I think you all will like this project. Project presented to Code Vision BCET. Also Won First Prize xD
 
 ## Getting Started
 
