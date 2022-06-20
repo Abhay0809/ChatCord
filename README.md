@@ -48,12 +48,9 @@ localhost:2020/login
 - CSS3 (SASS)
 - JavaScript (NodeJS)
 
-### Framework
-
-- Express JS
-
 ### Dependencies
 
+- express JS
 - bcrypt
 - ejs
 - express
